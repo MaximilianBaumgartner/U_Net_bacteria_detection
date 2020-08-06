@@ -29,11 +29,11 @@ Fiji ImageJ 2.0.0-rc-69/1.53c; Java 1.8.0_172
 
 Our model and weight files can be used for similar projects:
 
-- images must be 7.2416 px/um, in RGB with DAPI signal as magenta.\
-- Analyze-> Set Scale-> Remove Scale\
-- U-Net Job Manager-> Detection\
-- Image-> Overlay-> To ROI Manager\
-- ImageJ multipoint tool; strg+left mouse botton to remove, left mouse botton to add datapoints\
+- images must be 7.2416 px/um, in RGB with DAPI signal as magenta.
+- Analyze-> Set Scale-> Remove Scale
+- U-Net Job Manager-> Detection
+- Image-> Overlay-> To ROI Manager
+- ImageJ multipoint tool; strg+left mouse botton to remove, left mouse botton to add datapoints
 - strg+m to count total amount of bacteria in the image
 
 To save time and for better performance select and copy the area with bacteria and perform detection on a new image from the internal clipboard.
