@@ -5,13 +5,13 @@ We used U-Net to help us quantify bacteria on hundrets of DAPI stained confocal 
 
 ## Methodology for the manuscript
 
-The standard model (2d_cell_net_v0.caffemodel.h5) was finetuned with the annotated dataset in the training_set folder.
+The standard model (2d_cell_net_v0.caffemodel.h5) was finetuned with the annotated dataset in the [training_set](training_set/) folder.
 
 The resulting model and weight files used for the manuscript are:
--  unet-0ce131a1-8282-464a-9b8a-e2a6a4777166.modeldef.h5
--  finetuned_3.caffemodel.h5
+-  [unet-0ce131a1-8282-464a-9b8a-e2a6a4777166.modeldef.h5](unet-0ce131a1-8282-464a-9b8a-e2a6a4777166.modeldef.h5)
+-  [finetuned_3.caffemodel.h5](finetuned_3.caffemodel.h5)
 
-Data from supplementary figure S1d can be reproduced with the model and weight file and Figure_S1_Example.tif (a representative image which was not part of the training set).
+Data from supplementary figure S1d can be reproduced with these model and weight files and [Figure_S1_Example.tif](figure_S1/Figure_S1_example.tif)Figure_S1_Example.tif (a representative image which was not part of the training set).
 
 ### Software versions used
 
