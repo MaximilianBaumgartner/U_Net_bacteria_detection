@@ -38,7 +38,7 @@ Our model and weight files can be used for similar projects:
 
 To save time and for better performance select and copy the area with bacteria and perform detection on a new image from the internal clipboard.
 
-It is recommended to finetune the weight files with a couple of annotated images of the own dataset.
+It is recommended to finetune the weight file with a couple of annotated images of your own dataset.
 For an excellent tutorial on setting up U-net, finetuning and detection visit the [original u-net project](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/#detection).
 
 ## References
