@@ -1,11 +1,11 @@
 # U-net based quantification of bacteria
 
-U-Net provides a straightforward ImageJ plugin that can be used for deep learning based detection and quantification tasks [[1]](#1).
+U-Net provides a straightforward ImageJ plugin that can be used for deep learning based detection and quantification tasks [<sup>[1]<sup>](#1).
 We used U-Net to help us quantify bacteria on hundrets of DAPI stained confocal microscopy images of cuts from methacarn-fixed human intestinal biopsies.
 
 ## Methodology for the manuscript
 
-The standard model ([2d_cell_net_v0.caffemodel.h5](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/2d_cell_net_v0_model.zip)[[1]](#1)) was finetuned with the annotated dataset in the [training_set](training_set/) folder.
+The standard model ([2d_cell_net_v0.caffemodel.h5](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/2d_cell_net_v0_model.zip) [<sup>[1]<sup>](#1)) was finetuned with the annotated dataset in the [training_set](training_set/) folder.
 
 The resulting model and weight files used for the manuscript are:
 -  [unet-0ce131a1-8282-464a-9b8a-e2a6a4777166.modeldef.h5](unet-0ce131a1-8282-464a-9b8a-e2a6a4777166.modeldef.h5)
