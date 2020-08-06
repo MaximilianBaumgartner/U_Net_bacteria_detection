@@ -11,7 +11,7 @@ The resulting model and weight files used for the manuscript are:
 -  [unet-0ce131a1-8282-464a-9b8a-e2a6a4777166.modeldef.h5](unet-0ce131a1-8282-464a-9b8a-e2a6a4777166.modeldef.h5)
 -  [finetuned_3.caffemodel.h5](finetuned_3.caffemodel.h5)
 
-Data from supplementary figure S1d can be reproduced with these [model](unet-0ce131a1-8282-464a-9b8a-e2a6a4777166.modeldef.h5) and [weight](finetuned_3.caffemodel.h5) files and [Figure_S1_Example.tif](figure_S1/Fig_S1_Example.tif) (a representative image which was not part of the training set).
+Data from supplementary figure S1d can be reproduced with these model and weight files and [Figure_S1_Example.tif](figure_S1/Fig_S1_Example.tif) (a representative image which was not part of the training set).
 
 ### Software versions used
 
