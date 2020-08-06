@@ -13,7 +13,7 @@ finetuned_3.caffemodel.h5
 
 Data from supplementary figure S1d can be reproduced with the model and weight file and Figure_S1_Example.tif (a representative image which was not part of the training set).
 
-###Software versions used
+### Software versions used
 
 Calculations were done on an g2.2xlarge AWS server:\
 ubuntu 16.04\
